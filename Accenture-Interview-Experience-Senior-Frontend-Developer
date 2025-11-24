@@ -1,0 +1,70 @@
+# 💼 Accenture Interview Experience: Senior Frontend Developer
+
+This document details the questions and topics covered during my interview process for the **Senior Frontend Developer** role at **Accenture**.
+
+The interview focused heavily on **core JavaScript fundamentals**, **modern React concepts**, **performance optimization**, and **practical Git usage** in a production environment.
+
+---
+
+## 📅 **Round 1: Skill Interview (1 Hour+)**
+
+The first round was a deep dive into technical skills, covering **JavaScript**, **React**, and **Git**.
+
+### 💻 **JavaScript: Core Concepts & Output-Based Questions**
+
+This section tested **fundamental knowledge** and the ability to predict code execution.
+
+* **Variables & Scope:**
+    * **Difference** between `var`, `let`, and `const` (with detailed **scope explanation**).
+* **Execution Context:**
+    * What is **hoisting**, and how does it work **internally**?
+    * What is the **Temporal Dead Zone (TDZ)**?
+* **Type Coercion:**
+    * **Difference** between the equality operators `==` and `===`.
+* **Functional Programming:**
+    * What is a **closure**, and how does it retain access to its **lexical scope**?
+* **Asynchronous JavaScript:**
+    * Explain **callback hell**, and detail how **Promises** or `async/await` **solve** this issue.
+    * What is the **event loop**, and how does it handle **async tasks**?
+    * **Difference** between synchronous and asynchronous functions.
+* **Output-Based Questions:**
+    * Practical questions involving predicting output for scenarios related to **closures**, **TDZ**, **shadowing**, and **hoisting**.
+
+### ⚛️ **React: Scenario-Based Deep Dive**
+
+The React portion was primarily **scenario-based**, focusing on **practical implementation**, **optimization**, and **state management** strategies.
+
+| Topic | Key Questions & Scenarios |
+| :--- | :--- |
+| **Forms & Data** | How do you handle **forms** and manage **form state efficiently**? |
+| **API Integration** | How do you **integrate APIs** and manage the associated **loading/error states**? |
+| **Hooks** | Why is `fetch` commonly used **inside** `useEffect`? |
+| **Hook Fundamentals** | Explain the core React Hooks (`useState`, `useEffect`, `useMemo`, `useCallback`). |
+| **Global State** | **Difference** between **Context API** vs **Redux** (when to use which). |
+| **Prop Management** | What is **props drilling**, and how do you effectively **solve it**? |
+| **State Management** | Explain **state management approaches** in React. |
+| **Routing** | Explain **React Router**, covering **relative vs absolute paths**. |
+| **Reconciliation** | What is the **Virtual DOM**, and how does **reconciliation work internally**? |
+| **Performance** | How can you **optimize performance** in React applications? |
+| **Loading Optimization** | If a home page takes **5 seconds to load**, how would you **reduce it**? |
+| **List Rendering** | Why are **keys important** in lists, and what issues occur **without them**? |
+| **Core Concepts** | Explain the **React lifecycle**. |
+| **Rendering Control** | How do you **prevent unnecessary re-renders**? |
+| **Error Handling** | How do you handle **API errors** and implement **retries efficiently**? |
+
+### 🧩 **Git: Production-Level Commands**
+
+This section focused on **practical, real-world Git operations** and **safety** in a production environment.
+
+* **Commit Reversal:**
+    * What is the command to **safely revert a commit** that’s already **pushed to remote**?
+* **Production Safety:**
+    * Strategies for **safely switching branches** or handling **merge conflicts** in production.
+
+---
+
+## 🤝 **Connect & Learn**
+
+For detailed, interview-ready answers or to understand my approach to each scenario and question, feel free to **reach out to me**.
+
+I am **Happy to help** others prepare for their interviews!
