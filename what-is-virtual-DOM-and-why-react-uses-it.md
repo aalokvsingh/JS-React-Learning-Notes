@@ -6,7 +6,8 @@ This document provides a concise explanation of the **Virtual DOM (VDOM)**, why 
 
 ## 💡 What is the Virtual DOM?
 
-The **Virtual DOM (VDOM)** is a **lightweight, in-memory JavaScript object tree** that serves as a blueprint of the actual **Document Object Model (DOM)**.
+The **Virtual DOM (VDOM)** is a lightweight, in-memory representation of the actual DOM.
+It is simply a JavaScript object tree that describes what the real UI should look like.
 
 * It is a simple **JavaScript object version** of the user interface (UI).
 * It describes **what the UI should look like**, but it is **not rendered by the browser directly**.
